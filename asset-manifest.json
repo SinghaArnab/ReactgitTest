@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.b9a837cc.js",
-    "static/js/787.5864f58c.chunk.js": "/static/js/787.5864f58c.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.b9a837cc.js.map": "/static/js/main.b9a837cc.js.map",
-    "787.5864f58c.chunk.js.map": "/static/js/787.5864f58c.chunk.js.map"
+    "main.css": "/ReactgitTest/static/css/main.073c9b0a.css",
+    "main.js": "/ReactgitTest/static/js/main.ad1dfd79.js",
+    "static/js/787.5864f58c.chunk.js": "/ReactgitTest/static/js/787.5864f58c.chunk.js",
+    "static/media/logo.svg": "/ReactgitTest/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactgitTest/index.html",
+    "main.073c9b0a.css.map": "/ReactgitTest/static/css/main.073c9b0a.css.map",
+    "main.ad1dfd79.js.map": "/ReactgitTest/static/js/main.ad1dfd79.js.map",
+    "787.5864f58c.chunk.js.map": "/ReactgitTest/static/js/787.5864f58c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.b9a837cc.js"
+    "static/js/main.ad1dfd79.js"
   ]
 }
